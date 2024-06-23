@@ -37,7 +37,7 @@ MDN 웹 문서 프로젝트에서 당신은 [기여자](#contributor), [조직 �
 - 다른 기여자들의 풀 리퀘스트와 이슈를 돕거나, 새로운 기여자 멘토링하기
 - 버그 리포트를 제출하기. MDN의 [`콘텐츠`](https://github.com/mdn/content) 저장소에서 [열 수 있는 이슈 종류](https://github.com/mdn/content/issues/new/choose)를 확인하세요.
 -  플랫폼 버그를 발견하면, MDN의 `yari` 저장소에서 [이슈 열기](https://github.com/mdn/yari/issues/new/choose) 활동을 할 수 있습니다.
-- 이슈에 덧글을 달아 대화를 보람 있는 방향으로 이끌기
+- 이슈에 코멘트를 달아 대화를 보람 있는 방향으로 이끌기
 - 열려 있는 이슈 해결하기. 예를 들어, [`콘텐츠`](https://github.com/mdn/content/issues) 저장소에서 [풀 리퀘스트](/ko/docs/MDN/Community/Pull_requests)를 제출할 수 있습니다.
 - 커뮤니티 이벤트에 참여하기
 - MDN 프로젝트 홍보하기
